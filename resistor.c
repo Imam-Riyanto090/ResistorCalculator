@@ -9,5 +9,5 @@ int main()
     printf("Masukkan jumlah gelang (4 atau 5): ");
     scanf("%d", &jumlahGelang);
 
-    printf("tes");
+
 }
